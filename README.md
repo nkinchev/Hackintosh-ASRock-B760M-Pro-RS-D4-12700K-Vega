@@ -5,6 +5,8 @@ Opencore Bootloader **1.0.4** & Sequoia **15.4**
 
 <img src="https://github.com/nkinchev/Hackintosh-ASRock-B760M-Pro-RS-D4-12700K-Vega/blob/main/macos-sequoia.png" img>
 
+https://browser.geekbench.com/v6/cpu/11503898 
+
 **Introdution**
 
 You will have to generate a new SMIBIOS https://github.com/corpnewt/GenSMBIOS 
