@@ -3,6 +3,8 @@ Hackintosh EFI information for ASRock-B760M Pro RS/D4 and i7-12700K and AMD Vega
 
 Opencore Bootloader **1.0.4** & Sequoia **15.4**  
 
+<img src="https://github.com/nkinchev/Hackintosh-ASRock-B760M-Pro-RS-D4-12700K-Vega/blob/main/macos-sequoia.png" img>
+
 **Introdution**
 
 You will have to generate a new SMIBIOS https://github.com/corpnewt/GenSMBIOS 
