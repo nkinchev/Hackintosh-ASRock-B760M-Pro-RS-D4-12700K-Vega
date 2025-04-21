@@ -21,14 +21,15 @@ You will have to generate a new SMIBIOS https://github.com/corpnewt/GenSMBIOS
 **UEFI Settings:**  
 **Disabled**  
 Fast Boot  
-VT-d  
 CSM  
-CFG Lock  
-Secure Boot  
+CFG Lock   
 **CAM** Clever Memory Access  // Do not miss it, will not boot
+
+Secure Boot == Default or Disabled
   
 **Enabled**  
 VT-x  
+VT-d
 Above 4G decoding  
 Hyper-Threading  
 EHCI/XHCI Hand-off  
