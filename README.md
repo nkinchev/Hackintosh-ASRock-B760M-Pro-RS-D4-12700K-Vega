@@ -29,8 +29,11 @@ Secure Boot == Default or Disabled
   
 **Enabled**  
 VT-x  
-VT-d
+VT-d  
 Above 4G decoding  
 Hyper-Threading  
 EHCI/XHCI Hand-off  
 
+**Credits:**  
+https://dortania.github.io/OpenCore-Install-Guide/  
+https://github.com/lzhoang2801/OpCore-Simplify  
